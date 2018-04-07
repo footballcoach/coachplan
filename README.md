@@ -1,5 +1,3 @@
-###(h@t@t@p@s@:@/@/@w@w@w@.@b@a@i@d@u@.@c@o@m)###
-
 ![image](https://github.com/footballcoach/coachplan/blob/master/app.png)
 
 In Football Coach&Football match, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
